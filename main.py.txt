@@ -1,0 +1,2 @@
+core_executor = 5gb
+executor_memory = 10gb
